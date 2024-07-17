@@ -30,7 +30,7 @@
 }
 
 .child-l-g > div {
-    width: 110px;
+    width: 90px;
     height: 30px;
 }
 
@@ -73,6 +73,6 @@
     margin: 0 !important;
 }
 
-.ticket-link a :hover {
+.ticket-link > a :hover {
     color: #ff9f03;
 }
